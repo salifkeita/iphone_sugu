@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927270520295",
+    "project_id": "iphone-sugu-8a8fb",
+    "storage_bucket": "iphone-sugu-8a8fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927270520295:android:da5b9fd89af7cecac36942",
+        "android_client_info": {
+          "package_name": "com.example.iphone_sugu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927270520295-d4d8drevq24bs233j81l77oe86puudrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iphone_sugu",
+            "certificate_hash": "7cf4293e66d80c1817652a13091c5a34bdd674e5"
+          }
+        },
+        {
+          "client_id": "927270520295-2i4ognu8pg3gpesusbuid56p9og73i8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtz1nK2CykYo8Ne9J8e_XjF0Zef78j5lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927270520295-2i4ognu8pg3gpesusbuid56p9og73i8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1" 
+}
